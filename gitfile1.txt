@@ -1,2 +1,4 @@
 Line 1: Learning Git is fun!
 Line 2: Adding another line of text
+Line 3: Git is complicated
+Line 4: GitHub is not the same as Git
